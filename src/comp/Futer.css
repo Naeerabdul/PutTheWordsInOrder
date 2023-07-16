@@ -1,0 +1,96 @@
+*{
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+margin: 0%;
+padding: 0%;
+}
+.futerheight{
+min-height: 15vh;
+}
+.futerbox{
+border-radius: 0.5rem;
+border: #ffc107 solid 2px;
+background-color: #ffc107;
+text-align: center;
+font-size: 1.3rem;
+color:black;
+padding: 0.5rem;
+margin: 4px;
+min-width: 2.5rem;
+}
+.bodyboxs{
+border-radius: 0.5rem;
+border: #e4e4e4 solid 2px;
+background-color: #f3f3f3;
+text-align: center;
+position: relative;
+font-size: 1.3rem;
+height: 3rem;
+color: #f3f3f300;
+z-index: -1;
+padding: 0.5rem;
+margin: 4px;
+width: 2.5rem;
+}
+.futer{
+border-radius: 0.5rem;
+border: #e4e4e4 solid 2px;
+background-color: #f3f3f3;
+text-align: center;
+position: relative;
+font-size: 1.3rem;
+color: #f3f3f300;
+z-index: -1;
+padding: 0.5rem;
+margin: 4px;
+min-width: 2.5rem;
+}
+.cheke{
+border-radius: 0.5rem;
+border: #e4e4e4 solid 2px;
+background-color: #f3f3f3;
+text-align: center;
+font-size: 1.3rem;
+margin: 4px;
+padding: 0.5rem;
+min-width: 2.5rem;
+}
+.coco{background-color: #e4e4e4;}
+.hi{height: 100px;}
+
+.bordercolor{
+border-color: #ffc107;
+box-shadow:0 0 6px 0px #ffc107;
+background-color: #ffc10717;
+color: #e4e4e400;
+}
+.with{
+    width: 4rem;
+font-size: 1.3rem;
+}
+.true{
+    background-color: #0ec5172e;
+    border-color: green;
+}
+.flase{
+    background-color: #f9183d37;
+    border-color: red;
+}
+.bodyheight{
+    min-height: 75vh;
+}
+.dade{
+    width: 70%  ;
+    height: 0.8rem;
+    background-color: #F1F2F5;
+    border-radius: 0.5rem;
+
+}
+.child{
+    width: 70%  ;
+    height: 0.8rem;
+    background-color:#FCAE39;
+    border-radius: 0.5rem;
+}
+.alHederheight{
+    height: 10vh;
+}
